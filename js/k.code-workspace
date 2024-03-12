@@ -1,0 +1,30 @@
+{
+	"folders": [
+		{
+			"name": "weather-starter",
+			"path": "C:\\Users\\kirans\\Documents\\weather-starter"
+		},
+		{
+			"name": "Ch01",
+			"path": "C:\\Users\\kirans\\Downloads\\Ex_Files_Learning_webpack_4\\Exercise Files\\Ch01"
+		},
+		{
+			"name": "node_tutorial",
+			"path": "C:\\Users\\kirans\\Documents\\node_tutorial"
+		},
+		{
+			"name": "Resources",
+			"path": "C:\\Users\\kirans\\Downloads\\Ex_Files_Node_Pckg_Manager\\Exercise Files\\Resources"
+		},
+		{
+			"path": "C:\\Users\\kirans\\Documents\\visualStudio\\music-player"
+		},
+		{
+			"path": "C:\\Users\\kirans\\Documents\\visualStudio\\hangman_app"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "hangman_app",
+		"git.ignoreLimitWarning": true
+	}
+}
